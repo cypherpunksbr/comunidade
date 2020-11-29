@@ -1,4 +1,4 @@
-# Cypherpunks Brasil - Regras do Grupo
+# Cypherpunks Brasil - Código de Conduta
 
 Seja bem-vindo e encorajado a buscar conhecimento, contribuir com a comunidade e abraçar nossos princípios éticos e morais.
 
@@ -11,23 +11,23 @@ Quando buscar ajuda, faça suas pesquisas primeiro e exiba detalhes daquilo que 
 
 Estar de acordo com as regras privadas de nossa comunidade torna mais eficiente e agradável a interação entre membros e devem ser seguidas em nossos grupos abertos para interação.
 
-As diretivas a seguir são regras para conversa civilizada e convivência ao mesmo tempo em que se preza a liberdade de expressão e confronto de ideias; não são um código de conduta pois conduta é algo tão pessoal quanto propriedade privada e não cabe a ninguém legislar sobre a dos outros.
+As diretivas a seguir são regras para conversa civilizada e convivência ao mesmo tempo em que se preza a liberdade de expressão e confronto de ideias. Este código de conduta é um conjunto de regras para orientar e disciplinar a conduta dos membros enquanto participantes ativos da comunidade.
 
 ---
 #### Não serão tolerados em nossos grupos:
-- Comportamentos propositalmente e insistentemente insultuosos com finalidade clara de desestabilizar emocionalmente outras pessoas. "Ofensa" é a interpretação do receptor, "insulto" a do emissor: se uma pessoa se ofende por não gostar de mulheres sem véu, não há que se tentar agradá-la pra não ser ofendida; por outro lado, se alguém chama outrem de "peão" para inferiorizá-la, mesmo que essa pessoa não se sinta ofendida, isso pede intervenção. **Penalidade**: uma pessoa que insista em insultar os outros é inicialmente mutada no grupo por um dia. Após um dia o mute é tirado, e se incidir novamente toma expulsão do grupo de uma semana. Se depois disso ainda repetir, é expulsa permanentemente do grupo.
-- Discussões acaloradas em que várias pessoas se insultem mutuamente. **Penalidade** neste caso, com várias pessoas com os ânimos acirrados, para não ser injusto o melhor é mutar todos os membros por uma hora para dar tempo de esfriarem a cabeça. Caso alguns continuem com o bate-boca, passa a valer a regra individual dos insultos.
-- Ameaça séria e crível de violência física contra outro membro. **Penalidade**: ban imediato e permanente.
-- Doxxing (revelação de dados privados, como endereço, RG, cartão de crédito) de outras pessoas, sejam membros do grupo ou não. **Penalidade**: ban imediato e permanente.
-- Comportamentos scriptados/automáticos de flood/spam, anúncios/publicidade de usuário que não participa do grupo ou acaba de entrar ou não-autorizada. **Penalidade**: ban de um dia. Em caso de reincorrência, ban permanente.
-- Links ou chamadas suspeitas/enganosas ou tentativa de enganar usuários com scam, golpes, fraude ou outros atos claramente ilegais. **Penalidade**: ban imediato e permanente.
-- Offtopic ostensivo ou inflamado que claramente não agregue conteúdo ao grupo e ao contrário até impeça debates construtivos (há que se ter muito cuidado com a interpretação aqui). **Penalidade**: ban de uma hora; em reincorrência, ban de um dia; em nova reincorrência, ban permanente.
-- Conteúdos que se encaixem em _NSFW_ (Non-Safe For Work, ou Inapropriado Pra Ver no Trabalho). **Penalidade**: ban de uma hora; em reincorrência, ban de um dia; em nova reincorrência, ban permanente.
+- Comportamentos propositalmente e insistentemente insultuosos com finalidade clara de desestabilizar emocionalmente outras pessoas. "Ofensa" é a interpretação do receptor, "insulto" a do emissor: se uma pessoa se ofende por não gostar de mulheres sem véu, não há que se tentar agradá-la pra não ser ofendida; por outro lado, se alguém chama outrem de "peão" para inferiorizá-la, mesmo que essa pessoa não se sinta ofendida, isso pede intervenção;
+- Discussões acaloradas em que várias pessoas se insultem mutuamente;
+- Ameaça séria e crível de violência física contra outro membro;
+- Doxxing de membros (revelação de dados privados, como endereço, RG, cartão de crédito);
+- Comportamentos scriptados/automáticos de flood/spam, anúncios/publicidade de usuário que não participa do grupo ou acaba de entrar ou não-autorizada;
+- Links ou chamadas suspeitas/enganosas ou tentativa de enganar usuários com scam, golpes, fraude ou outros atos claramente ilegais;
+- Offtopic ostensivo ou inflamado que claramente não agregue conteúdo ao grupo e ao contrário até impeça debates construtivos (há que se ter muito cuidado com a interpretação aqui);
+- Conteúdos que se encaixem em _NSFW_ (Not Safe for Work, ou Inapropriado Pra Ver no Trabalho).
 
 #### Moderadores do grupo devem ter comportamento justo e equilibrado, sem vieses, saber manter a calma em discussão acalorada e também não podem exceder as penalidades:
-- Moderador que exerça penalidades maiores que as descritas nas regras deve receber uma advertência; se repetir, deve ser temporariamente destituído do poder de moderador por uma semana. E se repetir novamente, deve ser desligado do quadro de moderadores.
-- Moderador que tiver comportamento inapropriado como o das regras para usuário -- como por exemplo fazer floods ou insultar outros usuários -- deve, ao invés de receber a penalidade de usuário, ser destituído do cargo de moderador, sem ser expulso do grupo. Só a partir desse momento, como usuário, regras comuns passam a valer para ele.
-- Moderador que estiver fazendo ameaças constantes a usuários de punição, com viés claro ou para motivos pessoais verificáveis, desse receber uma advertência sobre tal comportamento. Se continuar fazendo o mesmo, deve ser temporariamente destituído da moderação por uma semana. Voltando a repetir, será permanentemente removido da administração do grupo.
+- Moderadores não podem aplicar penalidades maiores que as descritas na [lista de penalidades](https://github.com/cypherpunksbr/comunidade/blob/main/penalidades.md);
+- Moderadores também são membros da comunidade, portanto, também devem seguir as regras;
+- Moderadores não podem fazer ameaças constantes de punição a usuários, com viés claro ou para motivos pessoais verificáveis.
 
 Assuntos diversos fora do contexto do grupo tendem a gerar desentendimentos não produtivos e divisões na comunidade. Caso queira interagir com os membros sobre assuntos não relacionados ao tema do grupo principal, busque pelos grupos _offtopic_, onde as regras são pouco rígidas e as discussões mais descontraídas.
 
