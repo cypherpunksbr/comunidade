@@ -17,12 +17,11 @@ Em resumo, **apenas tenha bom senso**. Os moderadores só irão intervir se for 
 
 ---
 #### Não serão tolerados em nossos grupos:
-- Comportamentos propositalmente e insistentemente insultuosos feitas por uma ou mais pessoas, com finalidade clara de desestabilizar emocionalmente outras pessoas. Palavras não machucam mas ofensas desvirtuam uma discussão saudáveis;
+- Comportamentos propositalmente e insistentemente insultuosos feitas por uma ou mais pessoas, com finalidade clara de desestabilizar emocionalmente outras pessoas. Palavras não machucam mas ofensas desvirtuam uma discussão saudável;
 - Ameaça séria e crível de violência física contra outro membro;
 - Doxxing de membros (revelação de dados privados, como endereço, RG, cartão de crédito);
 - Comportamentos scriptados/automáticos de flood/spam, anúncios/publicidade de usuário que não participa do grupo ou acaba de entrar ou não-autorizada;
-- Links ou chamadas suspeitas/enganosas ou tentativa de enganar usuários com scam, golpes, fraude ou outros atos claramente ilegais;
-- Offtopic extremamente ostensivo ou inflamado que claramente não agregue conteúdo ao grupo e ao contrário até impeça debates construtivos;
+- Links ou chamadas suspeitas/enganosas ou tentativa de enganar usuários com scam, golpes, fraude ou outros atos claramente anti-éticos;
 - Conteúdos que se encaixem em _NSFW_ (Not Safe for Work, ou Inapropriado Pra Ver no Trabalho).
 
 #### Moderadores do grupo devem ter comportamento justo e equilibrado, sem vieses, saber manter a calma em discussão acalorada e também não podem exceder as penalidades:
@@ -30,7 +29,7 @@ Em resumo, **apenas tenha bom senso**. Os moderadores só irão intervir se for 
 - Moderadores também são membros da comunidade, portanto, também devem seguir as regras;
 - Moderadores não podem fazer ameaças constantes de punição a usuários, com viés claro ou para motivos pessoais verificáveis.
 
-Sinta-se a vontade para postar no grupo, apenas evite assuntos que são totalmente desconexos com os assuntos abordados no grupo (discutir futebol, biscoito ou bolacha e dicas de moda não tem nenhuma conexão com o grupo principal e é desejável que seja postado no _offtopic_.
+Sinta-se a vontade para postar no grupo, apenas evite assuntos que são totalmente desconexos com os assuntos abordados no grupo. Discutir futebol, biscoito ou bolacha e dicas de moda não tem nenhuma conexão com o grupo principal e é desejável que seja postado no _offtopic_.
 
 Respeite a todos em nossa comunidade, não importando suas crenças religiosas, etnia ou ideologias. De forma simples, trate os outros da forma que gostaria de ser tratado. Respeite os outros e seus pontos de vista, mesmo que discorde deles. Quando discordar, busque contrariar a ideia ou o argumento com um contra-argumento. Não use de falácias.
 
