@@ -17,6 +17,6 @@
 
 - Moderadores que descumpram as regras que são válidas para todos os usuários tem suas permissões para aplicar penalidades retiradas e recebem a mesma penalidade que um usuário comum recebe, recebendo novamente as permissões para aplicar penalidades apenas após cumprir a penalidade recebida.
 
-- Os moderadores tem autonomia para penalizar usuários e as penalidades podem ser sutilmente alteradas caso os casos tenham gravidade menor ou maior, jamais levando para o lado pessoal. Moderadores que não usarem do bom senso serão afastados.
+- Os moderadores tem autonomia para penalizar usuários e as penalidades podem ser sutilmente alteradas caso as ocorrências tenham gravidade desproporcional. Moderadores que não usarem do bom senso e imparcialidade serão afastados.
 
 As regras listadas estão simplificadas, porém em concordância com o [Código de Conduta](https://github.com/cypherpunksbr/comunidade/blob/main/CODE_OF_CONDUCT.md).
