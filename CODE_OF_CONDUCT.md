@@ -1,4 +1,4 @@
-# Cypherpunks Brasil - Código de Conduta
+# Cypherpunks Brasil - Código de Conduta da Comunidade
 
 Seja bem-vindo e encorajado a buscar conhecimento, contribuir com a comunidade e abraçar nossos princípios éticos e morais.
 
@@ -11,7 +11,7 @@ Quando buscar ajuda, faça suas pesquisas primeiro e exiba detalhes daquilo que 
 
 Estar de acordo com as regras privadas de nossa comunidade torna mais eficiente e agradável a interação entre membros e devem ser seguidas em nossos grupos abertos para interação.
 
-As diretivas a seguir são regras para conversa civilizada e convivência ao mesmo tempo em que se preza a liberdade de expressão e confronto de ideias. Este código de conduta é um conjunto de regras para orientar e disciplinar a conduta dos membros enquanto participantes ativos da comunidade.
+As diretivas a seguir são regras para conversa civilizada e convivência ao mesmo tempo em que se preza a liberdade de expressão e confronto de ideias. Este Código de Conduta é um conjunto de regras para orientar os membros enquanto participantes da comunidade.
 
 Em resumo, **apenas tenha bom senso**. Os moderadores só irão intervir se for realmente necessário.
 
