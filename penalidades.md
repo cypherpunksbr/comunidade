@@ -13,7 +13,7 @@
 | Tentativa de enganar usuários com scam, golpes, fraude ou outros atos claramente ilegais | ban | - | - |
 | Offtopic extremamente ostensivo ou inflamado | Envio do link para o offtopic, mute de 1 hora | Envio do link para o offtopic, mute de 1 dia | Envio do link para o offtopic, mute de 2 dias a cada incidente |
 | Conteúdos _NSFW_, como pornografia, gore, etc. | Mensagem apagada, mute de 6 horas | Mensagem apagada, mute de 5 dias | Mensagem apagada, mute de 2 semanas a cada incidente |
-| Moderador fazendo ameaças constantes de punição a usuários, com viés claro ou para motivos pessoais verificáveis | Retiradas permissões para aplicar penalidades por 1 dia | Retiradas permissões para aplicar penalidades por 1 semana | Reavaliação da posição como moderador |
+| Moderador fazendo ameaças constantes de punição a usuários, com viés claro ou para motivos pessoais verificáveis | Retiradas permissões para aplicar penalidades por 1 semana | Retiradas permissões para aplicar penalidades por 2 semanas | Reavaliação da posição como moderador |
 
 - Moderadores que descumpram as regras que são válidas para todos os usuários tem suas permissões para aplicar penalidades retiradas e recebem a mesma penalidade que um usuário comum recebe, recebendo novamente as permissões para aplicar penalidades apenas após cumprir a penalidade recebida.
 
